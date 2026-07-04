@@ -2,7 +2,7 @@
 
 A comprehensive learning repository focused on mastering **Pandas**, a powerful Python data manipulation and analysis library. This repository contains Jupyter notebooks covering essential Pandas concepts with practical examples and hands-on exercises.
 
-## 📚 Contents
+## Contents
 
 ### Jupyter Notebooks
 
@@ -55,9 +55,7 @@ A comprehensive learning repository focused on mastering **Pandas**, a powerful 
 - **world_population.csv** & **world_population_excel_workbook.xlsx** - World population data
 - **json_sample.json** - Sample JSON file for data import practice
 
-## 🎯 Learning Objectives
-
-By working through this repository, you will learn:
+## Learning Objectives
 
 - ✅ How to load and read data from different file formats
 - ✅ Data indexing and selection techniques
@@ -68,14 +66,16 @@ By working through this repository, you will learn:
 - ✅ Exploratory Data Analysis (EDA)
 - ✅ Data visualization techniques
 
-## 🛠️ Requirements
+## Requirements
 
-- Python 3.x
-- Pandas
-- Jupyter Notebook / JupyterLab
-- Matplotlib (for visualization)
+- Python 3.11.1
+- Pandas 2.2.3
+- Visual Studio Code
+- Matplotlib: 3.7.2
+- NumPy: 1.26.4
+- Seaborn: 0.13.2
 
-## 💻 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -84,38 +84,13 @@ git clone https://github.com/Shrilakshmi-NK/Pandas-practice.git
 # Navigate to the repository
 cd Pandas-practice
 
-# Install required packages
-pip install pandas jupyter matplotlib
-
-# Start Jupyter Notebook
-jupyter notebook
 ```
 
-## 📖 How to Use
-
-1. Open each Jupyter notebook sequentially to follow the learning progression
-2. Run the code cells to see the output and examples
-3. Experiment with the provided datasets
-4. Modify the code and try different operations
-5. Practice with your own datasets
-
-## 📊 Practice Approach
+## Practice Approach
 
 Each notebook contains:
-- Theoretical explanations
 - Code examples
 - Hands-on exercises
 - Sample datasets for practice
 - Real-world use cases
 
-## 🤝 Contributing
-
-Feel free to fork this repository and add more examples, datasets, or notebooks covering other Pandas topics!
-
-## 📝 Notes
-
-This repository is designed as a self-paced learning resource for anyone looking to strengthen their Pandas skills, from beginners to intermediate users.
-
----
-
-Happy Learning! 🐼📊
